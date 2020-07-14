@@ -53,7 +53,7 @@ public class cpu
     }
       avtat=(float)total/n;     //average turnaround time
     //System.out.println("Average waiting time="+avwt);
-  //  System.out.println("Average Turnaround Time="+avtat);
+  //  System.out.println("Average Turn Around Time="+avtat);
 
              String s=String.valueOf(avwt);
              ex.jTextField4.setText(s);  
